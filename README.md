@@ -1,4 +1,3 @@
-MyTest
+MyBlog
 ======
-
-Source code for test
+Blog from here.
